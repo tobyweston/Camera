@@ -1,4 +1,4 @@
-package com.develogical.camera;
+package camera;
 
 import org.jmock.integration.junit4.JUnitRuleMockery;
 import org.junit.Rule;

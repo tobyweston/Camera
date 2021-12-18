@@ -1,4 +1,4 @@
-package com.develogical.camera;
+package camera;
 
 public class Camera {
 
