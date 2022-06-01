@@ -12,7 +12,7 @@ public class CameraTest {
     @Test
     public void switchingTheCameraOnPowersUpTheSensor() {
 
-         // write your test here
+         // write your test here. No. No I wont. You write the test.
     }
 
 }
